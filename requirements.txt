@@ -1,4 +1,5 @@
 fastapi
+django
 uvicorn
 psycopg2
 python-docx
