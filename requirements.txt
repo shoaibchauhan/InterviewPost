@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+psycopg2
+python-docx
+python-pptx
+PyMuPDF
+pypdf2
+pydantic
+requests
+tika
+pytz
+predibase
